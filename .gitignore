@@ -72,3 +72,11 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Megascan files
+Content/Megascans/*
+Content/MSPresets/*
+
+# Rider files
+.idea/*
+*/.idea/*
