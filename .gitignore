@@ -80,3 +80,6 @@ Content/MSPresets/*
 # Rider files
 .idea/*
 */.idea/*
+
+# Packaged builds
+/PackagedBuilds/*
